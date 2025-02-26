@@ -9,5 +9,5 @@
 |yes             |ok                |
 > There are two main things that make Fortnite's battle royale mode a great experience: The thrill of taking down enemies and looking forward to their loot drops. The wide range of weapons and gadgets encourage players to specialize and customize their character
 <p>Fortnite!</p>
- ![image](https://github.com/user-attachments/assets/7de33ba8-6924-46c5-bbf8-2a1c7c6c857d)
+ ![image](https://github.com/user-attachments/assets/9d50e283-8e01-4491-b621-7b9010f952b2)
 
